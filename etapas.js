@@ -38,7 +38,7 @@ let etapas = [
         {
             numero: 84,
             nome: 'Bob-Esponja',
-            partido: 'ABC',
+            partido: 'FDB',
             vice: 'Patrick',
             fotos: [
                 {url: '84.webp', legenda: 'Prefeito'},
